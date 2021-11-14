@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  width: 300px;
+  margin-top: 15%;
+  background-color: gray;
+}
+#input{
+    text-align: center;
+}
+#button {
+  display: flex;
+  align-items: center;
+}
+
